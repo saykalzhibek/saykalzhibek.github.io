@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Focus center and stereo image" LastUsed="1445540123" LastModified="1445445133">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 1 Frequency" Value="533.98059082" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 1 Gain" Value="-2.70756340" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 1 Threshold" Value="-46.79264832" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Frequency" Value="1897.47485352" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Gain" Value="1.95125961" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Q" Value="1.17100000" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 3 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 4 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 5 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 5 Frequency" Value="2700.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 6 Frequency" Value="2221.49487305" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 6 Gain" Value="4.55294037" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 6 Threshold" Value="-67.69041443" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Frequency" Value="67.64238739" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Gain" Value="2.61680603" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Q" Value="0.70243746" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Shape" Value="2" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Threshold" Value="-27.82927704" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Expansion Mode" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Frequency" Value="178.56332397" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Gain" Value="-2.34453583" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Q" Value="1.55774987" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Frequency" Value="1682.41906738" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Gain" Value="-1.25546265" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Q" Value="0.36774999" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Frequency" Value="8718.48437500" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Gain" Value="1.58823586" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Q" Value="0.46443745" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Shape" Value="2" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Threshold" Value="-30.11612701" />
+        <Param ElementID="Dynamic EQ" ParamID="Filter Mode" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Processing Mode" Value="1" />
+    </DynamicEQ>
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABEeW5hbWljIEVR" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>
